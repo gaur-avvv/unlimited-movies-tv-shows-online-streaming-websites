@@ -3,7 +3,17 @@
 >100% Working
 >Watch Any Netflix Movie Series For Free On This Website.
 
+[NetMirror](https://net20.cc)
 
+[RiveStream](https://rivestream.org)  [_Use private dns to access this website_]
+```
+one.one.one.one
+dns.adguard.com
+1.1.1.1
+dns.google.com
+```
+
+[CineBy](https://www.cineby.gd)
 
 This is the website where anyone can watch netflix for free which contain all contents of netflix for free and let you watch ads free series and movie with online streaming freature.
 
@@ -21,7 +31,7 @@ It does not contain any malware or virus you can check it on virus total also.
 
 #**Here is the url of the website**
 
-https://iosmirror.cc/home
+
 
 ![image](https://github.com/user-attachments/assets/81dee8c6-18b0-4852-bcea-99523da35671)
 
