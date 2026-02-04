@@ -19,6 +19,20 @@ dns.google.com
 
 [CineBy](https://www.cineby.gd)
 
+[MapplTV](https://mappl.tv)
+
+https://www.bingewatch.to
+
+https://putlocker.pe
+
+http://lookmovie2.to
+
+https://ridomovies.tv
+
+https://hurawatch.cc
+
+https://hdtoday.cc
+
 This is the website where anyone can watch netflix for free which contain all contents of netflix for free and let you watch ads free series and movie with online streaming freature.
 
 <img width="1800" height="814" alt="image" src="https://github.com/user-attachments/assets/d232f6f3-b0ee-4e2d-abf7-8c0167f63577" />
