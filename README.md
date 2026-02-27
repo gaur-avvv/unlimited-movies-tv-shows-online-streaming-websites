@@ -1,5 +1,8 @@
 ## free-netflix
 
+<img width="1924" height="975" alt="image" src="https://github.com/user-attachments/assets/e77aabec-b39c-407f-959f-96c45087a9c9" />
+
+
 >[!Warning]
 >Don't download any apk or any file it may contain any malware or virus use only on website and use fake mail/gmails, check it on virustotal.
 
@@ -20,6 +23,8 @@ dns.google.com
 [CineBy](https://www.cineby.gd)
 
 [MapplTV](https://mappl.tv)
+<img width="1922" height="974" alt="image" src="https://github.com/user-attachments/assets/450724eb-4f5a-48f4-b094-2227342382c9" />
+
 
 https://www.bingewatch.to
 
