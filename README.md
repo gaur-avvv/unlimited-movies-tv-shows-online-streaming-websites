@@ -12,7 +12,7 @@
 
 [NetMirror](https://net20.cc)
 
-[RiveStream](https://rivestream.org)  [_Use private dns to access this website_]
+[RiveStream](https://rivestream.org)  [_Use [private dns](https://github.com/gaur-avvv/free-netflix/wiki/Private-DNS) to access this website_]
 ```
 one.one.one.one
 dns.adguard.com
