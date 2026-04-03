@@ -10,7 +10,7 @@
 >100% Working
 >Watch Any OTTs Movie Series For Free On These Website.
 
-moviebox.id, moviebox.ph, moviebox.pk, movieboxapp.in
+https://moviebox.id, https://moviebox.ph, https://moviebox.pk, https://movieboxapp.in
 
 https://vidbox.cc/home [Next Level Streaming Contain Overall World OTTs]
 
