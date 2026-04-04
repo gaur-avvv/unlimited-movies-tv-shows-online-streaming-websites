@@ -2,6 +2,16 @@
 
 <img width="1924" height="975" alt="image" src="https://github.com/user-attachments/assets/e77aabec-b39c-407f-959f-96c45087a9c9" />
 
+TL;DR
+gaur-avvv’s Streaming Directory
+This repository is a curated list of websites for streaming movies, TV shows, and OTT content (Netflix, Disney+, Prime) for free.
+Key Highlights:
+Top Links: Features sites like MovieBox, VidBox, BingeWatch, and LookMovie2.
+Safety Warning: The owner explicitly warns not to download any APKs or files to avoid malware/viruses.
+Privacy Tips: Suggests using "fake" emails and private DNS (like Cloudflare 1.1.1.1 or AdGuard) to bypass blocks and improve security.
+Verification: Recommends checking links on VirusTotal before use.
+
+The GitHub repository curated by gaur-avvv offers a collection of streaming sites for free movies, TV shows, and anime, featuring platforms like Moviebox, Vidbox, and CineBy. Users are advised to avoid downloading files, use burner emails, and implement private DNS for security while accessing the content. More information is available on the GitHub repository page.
 
 >[!Warning]
 >Don't download any apk or any file it may contain any malware or virus use only on website and use fake mail/gmails, check it on virustotal.
