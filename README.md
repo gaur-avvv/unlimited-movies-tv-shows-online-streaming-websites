@@ -13,6 +13,10 @@
 ## Master Of All 
 https://movy.sx
 
+https://cinejoy.pk/
+
+https://watch.corsflix.net/
+
 https://vidbox.vc
 
 https://www.plex.tv/watch-free/
