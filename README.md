@@ -11,7 +11,7 @@
 >
 
 ## Master Of All 
-fmhy.net/video#stream-aggregators
+https://movy.sx
 
 https://vidbox.vc
 
