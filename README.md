@@ -29,6 +29,8 @@ http://therokuchannel.roku.com/
 
 https://fawesome.tv/
 
+https://cinecat.eu/
+
 https://play.xumo.com/
 
 https://athome.fandango.com/
