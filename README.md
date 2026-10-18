@@ -37,8 +37,6 @@ https://athome.fandango.com/
 
 https://wooflix.io/
 
-https://dulo.cx/
-
 https://streamimdb.ru
 
 https://moviebox.city/movies/
