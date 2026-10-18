@@ -3,12 +3,14 @@
 <img width="1924" height="975" alt="image" src="https://github.com/user-attachments/assets/e77aabec-b39c-407f-959f-96c45087a9c9" />
 
 >[!Warning]
->Don't download any apk or any file it may contain any malware or virus use only on website and use tempmail and use vpn for privacy.
+>Don't download any apk or any file it may contain any malware or virus use only website and use tempmail and use vpn for privacy.
+>I'm not responsible for any things happens to you use at your own risk.
 
 >[!TIP]
 >100% Working
 >Watch Any OTTs Movie Series For Free On These Website.
->
+
+https://movienig.ht (this site give u reward for watching upto 10 hrs a day)
 
 ## Master Of All 
 https://movy.sx
