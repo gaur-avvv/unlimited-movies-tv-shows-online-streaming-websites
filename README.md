@@ -39,6 +39,8 @@ https://athome.fandango.com/
 
 https://wooflix.io/
 
+https://rivo.st/
+
 https://streamimdb.ru
 
 https://moviebox.city/movies/
